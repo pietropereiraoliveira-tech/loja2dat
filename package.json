@@ -1,0 +1,25 @@
+{
+  "name": "loja2dat2",
+  "version": "1.0.0",
+  "description": "API e frontend da loja virtual",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"No tests configured\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipefortu33/Loja2DAT2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "express": "^4.22.3"
+  },
+  "bugs": {
+    "url": "https://github.com/felipefortu33/Loja2DAT2/issues"
+  },
+  "homepage": "https://github.com/felipefortu33/Loja2DAT2#readme"
+}

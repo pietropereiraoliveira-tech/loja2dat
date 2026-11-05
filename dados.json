@@ -1,0 +1,12 @@
+{
+  "categorias": [
+    { "id": 1, "nome": "Eletrônicos" },
+    { "id": 2, "nome": "Casa" },
+    { "id": 3, "nome": "Acessórios" }
+  ],
+  "produtos": [
+    { "id": 1, "nome": "Teclado Mecânico", "preco": 249.9, "estoque": 15, "categoriaId": 1 },
+    { "id": 2, "nome": "Lâmpada LED", "preco": 39.9, "estoque": 8, "categoriaId": 2 },
+    { "id": 3, "nome": "Fone Bluetooth", "preco": 149.9, "estoque": 12, "categoriaId": 3 }
+  ]
+}
